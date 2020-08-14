@@ -1079,4 +1079,4 @@ client.on('message', message => {
   });
 
 
-client.login("NzQyMTI4OTQ2ODUzOTY5OTUw.XzBncQ.c3bYElcq0scT5nKT_Em_3ilBLIg");
+client.login("token");
